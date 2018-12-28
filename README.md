@@ -1,0 +1,1 @@
+This is my take on how the collective intelligence algorithms should be implemented.
